@@ -3,4 +3,4 @@
 
 print("just for test")
 print("create branch is very quick")
-print("merge collusion")
+print("merge a branch is very quick")
